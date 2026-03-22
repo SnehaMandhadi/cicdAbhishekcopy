@@ -1,4 +1,6 @@
 link to install minikube on ec2 instance = https://youtu.be/rmFVSeh63OM?si=f7t6cXZ7XV44x11D
+
+refer this tutorial=https://youtu.be/WwEch8vFsIw?si=4CARUCUmdugu9Eun
 install kubectl link on top of minkube =https://collabnix.com/how-to-install-minikube-on-ubuntu-linux-complete-step-by-step-guide/
 
 you need to run below commands to start minikube
